@@ -23,9 +23,9 @@ This project aims to predict customer churn for a bank using machine learning al
 
 ## Skills
 
-Python
-Scikit-learn
-Matplotlib & Seaborn
-Exploratory Data Analysis (EDA)
-Machine Learning Model Evaluation
-Feature Engineering
+- Python
+- Scikit-learn
+- Matplotlib & Seaborn
+- Exploratory Data Analysis (EDA)
+- Machine Learning Model Evaluation
+- Feature Engineering
